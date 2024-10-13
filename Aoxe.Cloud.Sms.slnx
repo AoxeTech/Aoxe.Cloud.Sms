@@ -1,0 +1,8 @@
+﻿<Solution>
+  <Folder Name="/demo/" />
+  <Folder Name="/src/">
+    <Project Path="src\Aoxe.Aws.Sms\Aoxe.Aws.Sms.csproj" Type="Classic C#" />
+    <Project Path="src\Aoxe.Azure.Sms\Aoxe.Azure.Sms.csproj" Type="Classic C#" />
+  </Folder>
+  <Folder Name="/tests/" />
+</Solution>
